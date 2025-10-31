@@ -10,6 +10,7 @@ namespace Zkouska
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello kaky");
         }
     }
 }
